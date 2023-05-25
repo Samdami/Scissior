@@ -29,7 +29,7 @@ MarkupSafe==2.1.2
 PyJWT==2.7.0
 pypng==0.20220715.0
 pyrsistent==0.19.3
-python-dotenv==1.0.0
+python-dotenv
 pytz==2023.3
 qrcode==7.4.2
 requests==2.31.0
