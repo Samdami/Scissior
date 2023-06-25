@@ -5,7 +5,7 @@ from flask_bcrypt import Bcrypt
 from .config.config import config_dict
 from .auth.views import auth_namespace
 from .acc.views import accounts_namespace
-from .visitor.views import visitor_namespace
+from .public.views import visitor_namespace
 from .client.views import url_namespace
 from .helpers.utils import db
 from .models.url import Url
