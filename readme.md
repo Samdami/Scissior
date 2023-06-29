@@ -27,7 +27,7 @@ It is believed that you have python installed already. Open CMD or terminal
 
 2. Open the directory
 ```sh
-cd pipcut
+cd scissior
 ```
 3. Create Virtual Environment
 ```sh
